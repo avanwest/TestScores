@@ -1,6 +1,6 @@
-#### Data Analytics CS381 - Predicting Test Scores
+### Data Analytics CS381 - Predicting Test Scores
 
-##### Group project analyzing a set of student data using a supervised machine learning model called Support-Vector Machine to what factors, if any, contribute to student test scores. 
+#### Group project analyzing a set of student data using a supervised machine learning model called Support-Vector Machine to what factors, if any, contribute to student test scores. 
 
 
 Data Understanding 
